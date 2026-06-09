@@ -1,5 +1,8 @@
 # KBD_OUTLET
 A lightweight python daemon for hyprland to make a macro keyboard
+I recommend saving to ~/.local/share/kbd-outlet since thats the default for launching the keybind.conf
+This project was originally made specifically for a redragon k630, which is a 60% keyboard, so some keys may not be mapped. 
+
 # kbd-outlet
 
 A lightweight, event-driven Linux daemon to transform a secondary keyboard into a dedicated macro matrix.
